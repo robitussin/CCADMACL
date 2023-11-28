@@ -6,9 +6,9 @@ Course Outline: https://believed-bongo-319.notion.site/CCADMACL-31cd68755aed4c35
 
 | Topic | Description | 
 | :---: | :---: |       
-| 1 - Review on machine learning concepts| |
+| 1 - Review on machine learning concepts | |
 | 2 - Generative versus Discriminative | |
-| 3 - Feature Selection Algorithm|  |
+| 3 - Feature Selection Algorithm |  |
 | 4 - Introduction to Unsupervised Approach |  |
 | 5 - Types of Clustering and discussion of sample of clustering algorithm |  |
 | 6 - Principal Component Analysis | |
