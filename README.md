@@ -6,7 +6,7 @@ Course Outline: https://believed-bongo-319.notion.site/CCADMACL-31cd68755aed4c35
 
 | Topic |
 | :---: |       
-| Basic Python Tutorial, Introduction to Google Collab and Jupyter Notebook |
+| Review on machine learning concepts|
 | Generative versus Discriminative |
 | Feature Selection Algorithm|
 | Introduction to Unsupervised Approach |
