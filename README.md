@@ -6,13 +6,16 @@ Course Outline: https://believed-bongo-319.notion.site/CCADMACL-31cd68755aed4c35
 
 | Topic | Description | 
 | :---: | :---: |       
-| 1 - Review on machine learning concepts | |
-| 2 - Generative versus Discriminative | |
-| 3 - Feature Selection Algorithm |  |
-| 4 - Introduction to Unsupervised Approach |  |
-| 5 - Types of Clustering and discussion of sample of clustering algorithm |  |
-| 6 - Principal Component Analysis | |
-| 7 - Association | |
-| 8 - Dimensionality Reduction | |
+| 1 - Generative versus Discriminative | |
+| 2 - Feature Selection Algorithms |  |
+| 3 - Introduction to Unsupervised Machine Learning |  |
+| 4 - Introduction to Clustering, K-Means Algorithm |  |
+| 5 - Hierarchical Clustering Algorithm |  |
+| 6 - DBSCAN Algorithm |  |
+| 7 - Introduction to Dimensionality Reduction, Principal Component Analysis Algorithm | |
+| 8 - Introduction to Association Rule Learning | |
+| 9 - Apriori Algorithm | |
+| 10 - Eclat Algorithm | |
+| 11 - Frequent Pattern Growth Algorithm | |
 
 
